@@ -1,4 +1,3 @@
-![logo](https://github.com/sahkanu34/sahkanu34/blob/main/Suraj%20sah%20Kanu%20(3).png)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sahkanu34.sahkanu34" />
 
 <h1 align="center">
