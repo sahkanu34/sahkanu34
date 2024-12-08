@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suraj+Sah+Kanu!;" />
 </h1>
 
-<h3 align="center">A passionate Data Science Enthusiast</h3>
+<h3 align="center">A passionate Data Science Learner</h3>
 
 <div align="center">
     <img alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJsZHI1bXdpcXU1bTdiZ2R3aHJ0bmw3a21wZWZ3ZGp6ZTkwNWZrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" />
