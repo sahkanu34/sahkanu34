@@ -48,12 +48,12 @@
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <br/>
+<img alt ="top langs" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahkanu34&show_icons=true&theme=dark&layout=compact"/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahkanu34&show_icons=true&locale=en&layout=compact" alt="sahkanu34" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahkanu34&&show_icons=true&theme=dark&layout=compact" alt="sahkanu34" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sahkanu34&show_icons=true&locale=en" alt="sahkanu34" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahkanu34&" alt="sahkanu34" /></p>
+<img alt ="top langs" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=sahkanu34&show_icons=true&theme=dark&layout=compact"/>
 
 <br/>
 <hr/>
