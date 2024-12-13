@@ -46,7 +46,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,jenkins,kubernetes,docker,python,git,django,anaconda,sklearn,tensorflow,pycharm,vscode,&theme=light" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,jenkins,kubernetes,docker,python,git,django,anaconda,sklearn,tensorflow,opencv,pycharm,vscode,&theme=light" /><br>
     <img src="https://skillicons.dev/icons?i=bash,c,cs,java,mysql,sqlite,postgres,flask,html,github,&theme=light" />
    
 </div>
