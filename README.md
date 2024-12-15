@@ -1,5 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sahkanu34" />
 
+![Visitor Count](https://komarev.com/ghpvc/?username=sahkanu34&label=Repository%20Views&color=0e75b6&style=flat)
+
+
 <h1 align="center">
     <img 
         src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=87CEEB&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suraj+Sah+Kanu!" 
