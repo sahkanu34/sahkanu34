@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sahkanu34.sahkanu34" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sahkanu34" />
 
 <h1 align="center">
     <img 
