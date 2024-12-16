@@ -1,5 +1,5 @@
 <!--Banner-->
-<img align=center src="https://github.com/sahkanu34/sahkanu34/blob/main/video.gif">
+<img align=center src="https://github.com/sahkanu34/sahkanu34/blob/main/banner2.png">
 
 <!--Night Owl image-->
 <div>
@@ -7,12 +7,12 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> HELLO! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello!! I'm Suraj! 
 *A passionate Data Science Learner*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">👋 Hi, I’m Suraj Sah Kanu, an aspiring Machine Learning Engineer with expertise in AI/ML, Data Analytics, and DevOps.</p>
+<p align="left">👋 An aspiring Machine Learning Engineer with expertise in AI/ML, Data Analytics, and DevOps.</p>
 
 - ✨ Computer Science Student.
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
