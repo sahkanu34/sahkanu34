@@ -1,5 +1,5 @@
 <!--Banner-->
-<img align=center src="https://github.com/sahkanu34/sahkanu34/blob/main/banner2.png">
+<img align=center src="https://github.com/sahkanu34/sahkanu34/blob/main/video.gif">
 
 <!--Night Owl image-->
 <div>
@@ -7,7 +7,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ SURAJ! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> HELLO! 
 *A passionate Data Science Learner*
 <br /> 
 
