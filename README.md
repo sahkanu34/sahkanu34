@@ -1,5 +1,7 @@
-<!--Banner-->
-<img align=center src="https://github.com/sahkanu34/sahkanu34/blob/main/banner2.png">
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 
 <!--Night Owl image-->
 <div>
