@@ -1,7 +1,8 @@
 <!--Footer--> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=header"/>
 </p>
+
 
 <!--Night Owl image-->
 <div>
@@ -116,7 +117,7 @@
 
 <!--Footer--> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
 
