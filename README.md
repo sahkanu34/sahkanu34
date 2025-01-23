@@ -65,8 +65,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/sahkanu34/salary_prediction_app">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=sahkanu34&repo=salary_prediction_app&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="bbdms" />
+        <a href="https://github.com/sahkanu34/cancer_prediction_app">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=sahkanu34&repo=cancer_prediction_app&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="web-app" />
         </a>
       </p>
     </td>
