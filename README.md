@@ -15,13 +15,13 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">👋 An aspiring Machine Learning Engineer with expertise in AI/ML, Data Analytics, and DevOps.</p>
+<p align="left">👋 An aspiring Machine Learning Engineer with expertise in Machine Learning, Data Analytics, MLOps & NLP.</p>
 
 - ✨ Computer Science Student.
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - ✍ I'm working on self-made Projects
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://sahkanu34.github.io) for more details about me.
+- 💻 Visit my [Portfolio](https://surajsahkanu.com.np) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -34,7 +34,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,jenkins,kubernetes,docker,python,git,django,anaconda,sklearn,tensorflow,opencv,pycharm,vscode,&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=jenkins,kubernetes,docker,python,git,django,anaconda,sklearn,tensorflow,opencv,pycharm,vscode,&theme=dark" /><br>
     <img src="https://skillicons.dev/icons?i=bash,c,cs,java,mysql,sqlite,postgres,flask,html,github,pkl&theme=dark" />
    
 </div>
@@ -66,7 +66,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/sahkanu34/cancer_prediction_app">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=sahkanu34&repo=cancer_prediction_app&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="web-app" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=sahkanu34&repo=Brain_tumour_detection_system&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="web-app" />
         </a>
       </p>
     </td>
@@ -96,15 +96,15 @@
 <div align="center">
   
 <a href="mailto:surajsah132@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
+<img src="./gmail.png" width=50 height=50 alt="email" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/suraj_sah_kanu" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+<img src="./instagram.png" width=50 height=50 alt="instagram" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.githubcom/sahkanu34" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
+<img src="./github.png" width=50 height=50 alt="github" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/sahkanu34" target="_blank">
