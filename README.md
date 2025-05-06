@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - ✍ I'm working on self-made Projects
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://newportfolio-lplpxfhhh-sahkanu34s-projects.vercel.app/) for more details about me.
+- 💻 Visit my [Portfolio](https://newportfolio-ruddy-three.vercel.app/) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
