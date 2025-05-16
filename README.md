@@ -15,7 +15,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">👋 An aspiring Machine Learning Engineer with expertise in Machine Learning, Data Analytics, MLOps & NLP.</p>
+<p align="left">👋 An aspiring Machine Learning Engineer with expertise in Machine Learning, Data Analytics, Deep Learning & NLP.</p>
 
 - ✨ Computer Science Student.
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
