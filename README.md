@@ -18,7 +18,7 @@
 <p align="left">👋 An aspiring Machine Learning Engineer with expertise in Machine Learning, Data Analytics, Deep Learning & NLP.</p>
 
 - ✨ Computer Science Student.
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
 - ✍ I'm working on self-made Projects
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://newportfolio-ruddy-three.vercel.app/) for more details about me.
@@ -39,16 +39,21 @@
    
 </div>
 
+<!--GitHub Profile Summary Cards-->
+<h2 align="center">📋 Pʀᴏғɪʟᴇ Sᴜᴍᴍᴀʀʏ 📋</h2>
+<div align="center">
+ <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahkanu34&theme=radical" alt="Profile Summary" />
+</div>
+
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
 <table width="100%">
   <tr>
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/sahkanu34">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahkanu34&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sahkanu34&show_icons=true&count_private=true&theme=radical&border_color=7209b7&bg_color=1a0b2e&title_color=c56a90&icon_color=b19cd9&text_color=ffffff" alt="GitHub Stats"/>
         </a>
       </p>
     </td>
@@ -56,39 +61,47 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/sahkanu34">
-          <img align="center" src="https://streak-stats.demolab.com?user=sahkanu34&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahkanu34&theme=dark&background=1a0b2e&border=7209b7&stroke=c56a90&ring=b19cd9&fire=ff6b9d&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c56a90&sideLabels=b19cd9&dates=d63aff" alt="Streak Stats" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center"><strong>Mᴏsᴛ Usᴇᴅ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
       <p align="center">
-        <a href="https://github.com/sahkanu34/Brain_tumour_detection_system">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=sahkanu34&repo=Brain_tumour_detection_system&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="web-app" />
+        <a href="https://github.com/sahkanu34">
+          <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahkanu34&layout=compact&theme=nightowl&bg_color=1a0b2e&title_color=c56a90&text_color=ffffff&border_color=7209b7&langs_count=8&hide=html,css" alt="Most Used Languages" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/sahkanu34">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=sahkanu34&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        <a href="https://github.com/sahkanu34/Brain_tumour_detection_system">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=sahkanu34&repo=Brain_tumour_detection_system&theme=nightowl&bg_color=1a0b2e&title_color=c56a90&text_color=ffffff&border_color=7209b7&show_owner=true" alt="Brain Tumor Detection" />
         </a>
       </p>
     </td>
   </tr>
 </table>
-<br />
+
+<!--Profile Trophy-->
+<!--
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sahkanu34&theme=discord&no-frame=true&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
+</div>
+-->
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahkanu34&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahkanu34&bg_color=1a0b2e&color=ffffff&line=c56a90&point=ff6b9d&area=true&area_color=b19cd9&title_color=c56a90&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" />
 </div>
 
----
+
+<br />
 
 <!--Contact Section--> 
 
@@ -119,5 +132,3 @@
 <p align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
-
