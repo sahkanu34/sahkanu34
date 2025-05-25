@@ -87,12 +87,11 @@
 </table>
 
 <!--Profile Trophy-->
-<!--
+
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sahkanu34&theme=discord&no-frame=true&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
 </div>
--->
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
@@ -107,6 +106,8 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
+
+
   
 <a href="mailto:surajsah132@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="email" style="margin-bottom: 5px;" />
