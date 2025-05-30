@@ -87,11 +87,12 @@
 </table>
 
 <!--Profile Trophy-->
-
+<!--
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sahkanu34&theme=discord&no-frame=true&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
 </div>
+-->
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
