@@ -78,8 +78,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/sahkanu34/Brain_tumour_detection_system">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=sahkanu34&repo=Brain_tumour_detection_system&theme=nightowl&bg_color=1a0b2e&title_color=c56a90&text_color=ffffff&border_color=7209b7&show_owner=true" alt="Brain Tumor Detection" />
+        <a href="https://github.com/sahkanu34/Neuro_Scan_AI">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=sahkanu34&repo=Neuro_Scan_AI&theme=nightowl&bg_color=1a0b2e&title_color=c56a90&text_color=ffffff&border_color=7209b7&show_owner=true" alt="NEURO SCAN AI" />
         </a>
       </p>
     </td>
