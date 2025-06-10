@@ -29,6 +29,12 @@
   <img src="https://komarev.com/ghpvc/?username=sahkanu34&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="sahkanu34" style="padding-right:20px;" />
 </p>
 
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahkanu34&bg_color=1a0b2e&color=ffffff&line=c56a90&point=ff6b9d&area=true&area_color=b19cd9&title_color=c56a90&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" />
+</div>
+
 
 <!--Languages and Tools Section-->       
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -94,11 +100,7 @@
 </div>
 -->
 
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahkanu34&bg_color=1a0b2e&color=ffffff&line=c56a90&point=ff6b9d&area=true&area_color=b19cd9&title_color=c56a90&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" />
-</div>
+
 
 
 <br />
