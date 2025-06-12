@@ -34,7 +34,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=jenkins,kubernetes,docker,python,git,fastapi,anaconda,sklearn,tensorflow,opencv,pycharm,vscode,&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=,bash,c,cs,java,mysql,sqlite,postgres,flask,html,github,pkl&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=postman,bash,c,cs,java,mysql,sqlite,postgres,flask,html,github,pkl&theme=dark" />
    
 </div>
 
