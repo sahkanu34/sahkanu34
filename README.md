@@ -11,16 +11,16 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello!! I'm Suraj! 
-*A passionate Data Science Learner*
+*A passionate Data Science Learner and Researcher*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">👋 An aspiring Machine Learning Engineer with expertise in Machine Learning, Data Analytics, Deep Learning & NLP.</p>
+<p align="left">👋 An aspiring Machine Learning Engineer with expertise in Machine Learning, Data Analytics, Deep Learning & Computer Vision and Medical Image Processing.</p>
 
 - ✨ Computer Science Student.
 - 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
-- ✍ I'm working on self-made Projects
-- ❤ Contributing to Open Source.
+- ✍ I'm working on Research at NAAMII
+- ❤ Contributing to Open Source and Research Papers
 - 💻 Visit my [Portfolio](https://surajsahkanu.vercel.app/) for more details about me.
 <!--End Intro-->
 
@@ -34,7 +34,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=amazonwebservices,githubactions,kubernetes,docker,python,git,fastapi,anaconda,sklearn,tensorflow,opencv,pytorch,pycharm,vscode,&theme=light" /><br>
-    <img src="https://skillicons.dev/icons?i=jupyter,postman,bash,c,cs,java,mysql,sqlite,postgres,flask,html,github,pkl&theme=light" />
+    <img src="https://skillicons.dev/icons?i=postman,bash,c,cs,java,mysql,sqlite,postgres,flask,html,github,pkl&theme=light" />
    
 </div>
 
