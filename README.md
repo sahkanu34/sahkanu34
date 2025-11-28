@@ -3,25 +3,57 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=header"/>
 </p>
 
-
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello!! I'm Suraj! 
-*A passionate Data Science Learner and Researcher*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! I'm Suraj! 
+
+### *Passionate ML Engineer & Medical Imaging Researcher*
+
 <br /> 
 
-<!--Start Intro-->               
-<p align="left">👋 An aspiring Machine Learning Engineer with expertise in Machine Learning, Data Analytics, Deep Learning & Computer Vision and Medical Image Processing.</p>
+<!--Start Intro-->
 
-- ✨ Computer Science Student.
-- 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
-- ✍ I'm working on Research at NAAMII
-- ❤ Contributing to Open Source and Research Papers
-- 💻 Visit my [Portfolio](https://surajsahkanu.vercel.app/) for more details about me.
+👋 **About Me**
+
+I'm an aspiring Machine Learning Engineer specializing in Computer Vision and Medical Image Processing. Currently diving deep into cutting-edge research at NAAMII, where I work on advancing healthcare through AI-powered medical image analysis.
+
+---
+
+### 🎯 What I Do
+
+- 🔬 **Medical Imaging Research** - Developing deep learning models for precise medical image segmentation and analysis
+- 🧠 **Computer Vision** - Building intelligent systems that can see and understand visual data
+- 📊 **Data Analytics** - Extracting meaningful insights from complex datasets
+- 🤖 **Deep Learning** - Architecting neural networks for real-world applications
+
+---
+
+### 🚀 Current Focus
+
+- ✨ **Computer Science Student** pursuing excellence in ML/AI
+- 🌱 **Continuous Learner** - Every day brings new opportunities to grow and discover
+- ✍️ **Research @ NAAMII** - Contributing to impactful research in medical imaging and AI
+- ❤️ **Open Source Contributor** - Giving back to the community through code and research papers
+- 💻 **Building & Sharing** - Check out my [Portfolio](https://surajsahkanu.vercel.app/) to see what I've been working on
+
+---
+
+### 🛠️ Technical Arsenal
+
+**Specializations:** Machine Learning • Deep Learning • Computer Vision • Medical Image Processing • Data Analytics
+
+**Research Interests:** Medical Image Segmentation • Multi-Modal Imaging • Deep Learning for Healthcare
+
+---
+
+### 📫 Let's Connect!
+
+Always excited to collaborate on innovative ML projects, discuss research ideas, or contribute to open-source initiatives. Feel free to explore my repositories and reach out!
+
 <!--End Intro-->
 
 <!--Profile Count Badge-->
