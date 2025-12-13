@@ -115,7 +115,7 @@ Architecting networks for:
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions&theme=dark" />
 
 ### Development Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,anaconda&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,anaconda,tmux&theme=dark" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
